@@ -1,0 +1,27 @@
+{
+	"name": "cron-parser",
+	"version": "1.0.0",
+	"description": "A simple Node.JS command line application which parses Cron expression",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest",
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JalaySimaria/cron-parser.git"
+	},
+	"keywords": [],
+	"author": {
+		"name": "Jalay Simaria",
+		"url": "http://jalay.in/"
+	},
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/JalaySimaria/cron-parser/issues"
+	},
+	"homepage": "https://github.com/JalaySimaria/cron-parser#readme",
+	"devDependencies": {
+		"jest": "^24.9.0"
+	}
+}
