@@ -1,4 +1,4 @@
-# Matrix Generator!
+# Cron Parser!
 
 A simple Node.JS command line application which parses Cron expression.
 
